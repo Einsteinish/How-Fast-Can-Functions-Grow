@@ -12,11 +12,12 @@ Exponential functions grow at a constant rate relative to their current value. F
 ![Table-Rev-2_x-Relative-Growth](images/Table-Rev-2_x-Relative-Growth.png)
 
 
-While exponential growth is fast, 
+Exponential function grows very quickly: 
+
 - $e^{10} \approx 22,026$
 - $e^{20} \approx 485,165,195$
 
-it is just the beginning of the hierarchy of rapidly growing functions.
+But it is just the beginning of the hierarchy of rapidly growing functions.
 
 ---
 
