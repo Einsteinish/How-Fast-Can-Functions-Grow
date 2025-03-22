@@ -42,7 +42,7 @@ Despite its rapid growth, the factorial function is still outpaced by even faste
 
 ### Definition
 
-Tetration an operation based on iterated, or repeated, exponentiation to higher orders. There is no standard notation for tetration, though Knuth's up arrow notation and the left-exponent are common:
+Tetration is an operation based on iterated, or repeated, exponentiation to higher orders. There is no standard notation for tetration, though Knuth's up arrow notation and the left-exponent are common:
 
 - **Knuth's Up-Arrow Notation**: `a ↑↑ b`  
 - **Hyper-Exponential Notation**: $^b a$  
