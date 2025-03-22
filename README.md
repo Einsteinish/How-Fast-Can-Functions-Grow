@@ -38,11 +38,25 @@ Despite its rapid growth, the factorial function is still outpaced by even faste
 
 ---
 
-## Tetration (Iterated Exponentiation or exponential-tower)
+## Tetration (Iterated Exponentiation or Repeated Exponentiation or exponential-tower)
 
 ### Definition
 
-Tetration is the next hyperoperation after exponentiation. It is denoted as:
+Tetration an operation based on iterated, or repeated, exponentiation to higher orders. There is no standard notation for tetration, though Knuth's up arrow notation and the left-exponent are common:
+
+- **Knuth's Up-Arrow Notation**: `a ↑↑ b`  
+- **Hyper-Exponential Notation**: $^b a$  
+
+Here:
+- a is the base.
+- b is the height (or number of iterations).
+
+  
+For example:  
+- `3 ↑↑ 4` is the same as $^4 3$, which means $3^{3^{3^3}}$.  
+- `2 ↑↑ 5` is the same as $^5 2$, meaning $2^{2^{2^{2^2}}}$.  
+
+In this page, we'll use the **Hyper-Exponential Notation**: $^b a$  
 
 $$
 ^n x
