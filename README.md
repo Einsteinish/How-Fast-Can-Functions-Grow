@@ -1,6 +1,6 @@
 # How Fast Can Functions Grow? Exponential, Factorial, Tetration, and Ackermann
 
-In mathematics, some functions grow slowly, like linear or quadratic functions, while others grow so quickly that their values become astronomically large even for small inputs. In this video, we will explore four functions that represent different levels of growth: **exponential**, **factorial**, **tetration**, and the **Ackermann** function. Each of these functions grows faster than the last, and understanding their growth rates helps us appreciate the vastness of mathematical possibilities.
+In mathematics, some functions grow slowly, like linear or quadratic functions, while others grow so quickly that their values become astronomically large even for small inputs. We will explore four functions that represent different levels of growth: **exponential**, **factorial**, **tetration**, and the **Ackermann** function. Each of these functions grows faster than the last, and understanding their growth rates helps us appreciate the vastness of mathematical possibilities.
 
 ---
 ## Exponential ($e^x$)
