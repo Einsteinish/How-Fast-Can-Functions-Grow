@@ -472,3 +472,10 @@ For instance:
 - $e^x$ grows exponentially,
 - $x^x$ grows super-exponentially,
 - $x^{x^{x^{x...}}}$ grows hyperexponentially.
+
+
+---
+
+[Watch the Youtube video here](https://youtu.be/7yGjgcCtneM)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/7yGjgcCtneM/0.jpg)](https://www.youtube.com/watch?v=7yGjgcCtneM)
